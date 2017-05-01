@@ -1,8 +1,8 @@
 <link rel="stylesheet" type="text/css" href="./style.css">
-#Mayoral Approval
-##Purple Pink Deck Stacking
+# Mayoral Approval
+## Purple Pink Deck Stacking
 
-###Decklist
+### Decklist
 	Mane:
 	1 x Princess Twilight Sparkle, Ambassador of Friendship
 
@@ -32,21 +32,21 @@
 	3 x Frozen in Magicite
 	3 x Ponyville Emergency
 
-###Deck Goals
+### Deck Goals
 * Sustain powerful friends through means of placing cards on top of your deck and drawing cards
 * Control and Remove big threats to the deck
 * Go through your deck as fast as possible to find the combo peices.
 
-###Comboes
+### Comboes
 * [Mayor Mare][mayor] or [Moondancer][moondancer] with Meticulous X or [Starswirl Research][ssr]
 * [Babs Seed][babs] with any form of draw, mainly [Let's Get This Party Started][lgtps]
 * [Scope Things Out][scope] is a great enabler for [Babs][babs], [Moodnancer][moondancer], and [Mayor Mare][mayor].
 
-###Entry
+### Entry
 * [Babs Seed][babs] takes care of Pink entry for me. She's under-curve the turn she enters play (2 power for 3 AT), but she more than makes up for it later on. Pink being a splash for some tech cards later on needs no more entry than the 3 babs provides.
 * [Mayor Mare][mayor] and [Owlowliscious][owl] takes care of my Purple entry seeing as purple is the main colour of the deck and the colour on which this strategy revolves around. [Mayor Mare][mayor] is there as a turn 1 play, and a way to start me on my way to my combo. [Owlowliscious][owl] is useful in that he's a 2-drop for no requirements that will also pump up your [Mayor Mares][mayor] and [Moondancers][moondancer].
 
-###Lines of Play
+### Lines of Play
 Here are some good lines of play to use in game. They generally function to serve the combo and make use of the combo.
 
 * Opener
