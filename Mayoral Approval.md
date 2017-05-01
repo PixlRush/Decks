@@ -1,5 +1,7 @@
 <link rel="stylesheet" type="text/css" href="./style.css">
+
 # Mayoral Approval
+
 ## Purple Pink Deck Stacking
 
 ### Decklist
