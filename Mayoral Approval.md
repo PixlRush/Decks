@@ -1,38 +1,36 @@
 <link rel="stylesheet" type="text/css" href="./style.css">
 
 # Mayoral Approval
-
 ## Purple Pink Deck Stacking
-
 ### Decklist
-	Mane:
-	1 x Princess Twilight Sparkle, Ambassador of Friendship
-
-	Problems:
-	2 x Spell Showdown
-	2 x Halfway Across Equestria
-	2 x The Trouble With Trixie
-	2 x Twilight's Worst Nightmare
-	2 x Pinkie's Worst Nightmare
-
-	Draw:
-	3 x Moondancer, Page Turner
-	3 x Princess Twilight Sparkle, Cover to Cover
-	3 x Scope Things Out
-	3 x Babs Seed, Cutie Marked
-	3 x Mayor Mare, Vote of Confidence
-	3 x Star Swirl Research
-	3 x Let's Get This Party Started
-	3 x Owlowiscious, Reshelver
-	2 x Dream Network
-	2 x Sonata Dusk, Siren's Call
-	2 x Dip in the Pool
-	2 x Moving Mare, Crash on Delivery
-	3 x Umbrella Hat
-	2 x Minuette, Schadenfreude
-	2 x Party Filly, Bubble Burster
-	3 x Frozen in Magicite
-	3 x Ponyville Emergency
+```
+Mane:
+1 x Princess Twilight Sparkle, Ambassador of Friendship
+Problems:
+2 x Spell Showdown
+2 x Halfway Across Equestria
+2 x The Trouble With Trixie
+2 x Twilight's Worst Nightmare
+2 x Pinkie's Worst Nightmare
+Draw:
+3 x Moondancer, Page Turner
+3 x Princess Twilight Sparkle, Cover to Cover
+3 x Scope Things Out
+3 x Babs Seed, Cutie Marked
+3 x Mayor Mare, Vote of Confidence
+3 x Star Swirl Research
+3 x Let's Get This Party Started
+3 x Owlowiscious, Reshelver
+2 x Dream Network
+2 x Sonata Dusk, Siren's Call
+2 x Dip in the Pool
+2 x Moving Mare, Crash on Delivery
+3 x Umbrella Hat
+2 x Minuette, Schadenfreude
+2 x Party Filly, Bubble Burster
+3 x Frozen in Magicite
+3 x Ponyville Emergency
+```
 
 ### Deck Goals
 * Sustain powerful friends through means of placing cards on top of your deck and drawing cards
