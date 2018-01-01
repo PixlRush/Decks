@@ -1,0 +1,57 @@
+/*HEADER*/
+	header{
+		background-color: #171C3E;
+		padding: 10px 20px;
+		border-bottom: 8px solid #2D3A74;
+	}
+
+	#home{
+		width: 140px;
+		height: 140px;
+		border-radius: 25%;
+		border: 10px outset #888;
+	}
+
+	#title{
+		vertical-align: top;
+		text-align: left;
+		font-family: "Trebuchet MS";
+		color: white;
+	}
+	/*TITLE TEXT*/
+		#name, #surname{margin: 5pt 0pt;}
+		#name{font-size: 40pt}
+		#surname{font-size: 20pt; font-weight: 200;}
+/*BODY*/
+	body{
+		margin: 0px;	/*allow fullbleed of the website*/
+		background-color: #ADC2D6;
+	}
+
+	#decks{
+		margin: 10px;
+		max-width: 800px;
+
+	}
+
+	#deck{
+		margin: 10px;
+		padding: 10px;
+		background-color: #414C88;
+		border-radius: 5px;
+		font-family: "Trebuchet MS";
+		color: #EBF1F5;
+		text-align: center;
+		display: inline-block;
+	}
+
+	/*DECK LINK*/
+		#icon{
+			border: 10px outset #808080;
+			width: 150px;
+			height: 209px;
+			border-radius: 5px;
+		}
+		#icon:hover{
+			box-shadow: 0px 0px 10px #fff;
+		}
